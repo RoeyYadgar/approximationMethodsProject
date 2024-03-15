@@ -1,0 +1,1 @@
+Projection in Approximation Methods Course - Implemenation of algortihm for denstiy estimation using RKHS (Reproducing Kernel Hilbert Space) from the paper: "F. Nobile Y.Kazashi. Density estimation in rkhs with application to korobov spaces in high dimensions. SIAM Journal on Numerical Analysis, 61(2):1080–1102, 2023" (https://arxiv.org/abs/2108.12699).
